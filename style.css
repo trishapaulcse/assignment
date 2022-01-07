@@ -73,7 +73,7 @@ padding-left: 10px;
 #center{
     text-align: center;
 }
-#footer{
+#footer-id{
     width: 100%;
     padding-right: 0;
     padding-left: 0;
@@ -83,5 +83,9 @@ padding-left: 10px;
     color: white;
 }
 .footer-name{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+footer{
+    padding: 2px;
 }
