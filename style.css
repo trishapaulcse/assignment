@@ -4,6 +4,7 @@ body{
 }
 .flexible{
     display: flex;
+    margin-bottom: 75px;
 }
 
 .half-width{
@@ -63,4 +64,24 @@ padding-left: 10px;
 }
 #goals{
     background-color:rgb(241, 196, 196);
+}
+.paragraph{
+    text-align: justify;
+    padding-right: 3px;
+    margin-right: 5%;
+}
+#center{
+    text-align: center;
+}
+#footer{
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 0;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.footer-name{
+    font-family: 'Times New Roman', Times, serif;
 }
